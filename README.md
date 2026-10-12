@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Gonzalo 👋
 
-<!--
-**gonzarobledo7/gonzarobledo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA Engineer from Mar del Plata, Argentina. For 5+ years I've tested web, mobile and REST APIs for banking, finance, agribusiness and travel clients at Globant, Infosis, Dicsys and Accenture.
 
-Here are some ideas to get you started:
+## How I approach quality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **API first.** Most checks belong at the service level, where they are fast and stable. The UI covers what only a browser can prove.
+- **Pipelines own their environment.** A red build should mean a real problem, not a shared server that went down.
+- **Quality starts before code.** Clear acceptance criteria and early testing (Shift Left) save more bugs than any test suite.
+
+## Currently building
+
+**[restful-booker-playwright](https://github.com/gonzarobledo7/restful-booker-playwright)**: API, UI and E2E automation for a six-service booking platform with Playwright and TypeScript. It runs against a Dockerized app in GitHub Actions and is built in public, one user story and pull request at a time.
+
+## Highlights
+
+- Shifted test coverage from UI end-to-end flows to the API layer, and presented the strategy and results to the CTO and Head of Operations.
+- Cut test suite execution time by 30% with POM, SOLID principles and CI/CD optimization.
+- Reduced GitLab CI pipeline time by 20%.
+- Led distributed QA teams across simultaneous projects and onboarded new joiners.
+
+## Toolbox
+
+**Automation:** Playwright · Selenium · Cypress · Appium · Rest Assured
+**Languages:** TypeScript · JavaScript · Java · Python
+**CI/CD:** GitHub Actions · GitLab CI · Jenkins · Azure Pipelines
+**Practices:** Test automation pyramid · BDD · POM · Shift Left · Agile/Scrum
+
+## Currently learning
+
+ISTQB CTFL v4.0
+
+## Let's talk
+
+[LinkedIn](https://www.linkedin.com/in/gonzalo-ariel-robledo-4417a9142) · English C1/C2 · Spanish native
+
+<sub>Older repositories on this profile come from courses and practice projects.</sub>
