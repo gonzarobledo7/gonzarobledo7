@@ -1,6 +1,6 @@
 # Hi, I'm Gonzalo 👋
 
-Senior QA Engineer from Mar del Plata, Argentina. For 5+ years I've tested web, mobile and REST APIs for banking, finance, agribusiness and travel clients at Globant, Infosis, Dicsys and Accenture.
+Senior QA Engineer from Mar del Plata, Argentina. For 5+ years I've owned quality end to end for banking, finance, agribusiness and travel clients at Globant, Infosis, Dicsys and Accenture: from refining requirements and manual testing to automation, CI/CD and leading QA teams.
 
 ## How I approach quality
 
@@ -18,17 +18,23 @@ Senior QA Engineer from Mar del Plata, Argentina. For 5+ years I've tested web, 
 - Cut test suite execution time by 30% with POM, SOLID principles and CI/CD optimization.
 - Reduced GitLab CI pipeline time by 20%.
 - Led distributed QA teams across simultaneous projects and onboarded new joiners.
+- Acted as Business Analyst, refining requirements between business areas and technical teams.
+- Chose the testing approach per feature (exploratory, regression, functional or backend) based on its risk.
 
 ## Toolbox
 
-**Automation:** Playwright · Selenium · Cypress · Appium · Rest Assured
-**Languages:** TypeScript · JavaScript · Java · Python
-**CI/CD:** GitHub Actions · GitLab CI · Jenkins · Azure Pipelines
-**Practices:** Test automation pyramid · BDD · POM · Shift Left · Agile/Scrum
+- **Manual testing:** Test design · Exploratory · Functional · Regression · Acceptance criteria
+- **Automation:** Playwright · Selenium · Cypress · Appium · Rest Assured
+- **API testing:** Postman · Rest Assured · Bruno
+- **Languages:** TypeScript · JavaScript · Java · Python
+- **CI/CD:** GitHub Actions · GitLab CI · Jenkins · Azure Pipelines
+- **Test management:** Jira · Xray · TestRail · Azure DevOps · Confluence
+- **Practices:** Test automation pyramid · BDD · POM · Shift Left · Agile/Scrum
 
 ## Currently learning
 
-ISTQB CTFL v4.0
+- ISTQB CTFL v4.0
+- Business Administration at UTN MDP, with a focus on team and project management
 
 ## Let's talk
 
