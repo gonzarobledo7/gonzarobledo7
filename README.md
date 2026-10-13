@@ -36,8 +36,13 @@ Senior QA Engineer from Mar del Plata, Argentina. For 5+ years I've owned qualit
 - ISTQB CTFL v4.0
 - Business Administration at UTN MDP, with a focus on team and project management
 
+## Languages
+
+English C1/C2 · Spanish native
+
 ## Let's talk
 
-[LinkedIn](https://www.linkedin.com/in/gonzalo-ariel-robledo-4417a9142) · English C1/C2 · Spanish native
+LinkedIn: www.linkedin.com/in/gonzarobledo 
+Portfolio: https://gonzarobledo7.github.io/
 
 <sub>Older repositories on this profile come from courses and practice projects.</sub>
